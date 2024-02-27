@@ -27,4 +27,4 @@
 
 #### Codewars Stats
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/Nikolai_PRO_1)
+[![codewars](https://www.codewars.com/users/Nikolai_PRO_1/badges/large)](https://www.codewars.com/users/Nikolai_PRO_1)
