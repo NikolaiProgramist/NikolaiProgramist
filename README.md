@@ -1,4 +1,4 @@
-<img src='https://img.freepik.com/premium-photo/programming-in-a-programming-language-for-a-system-programming-is-used-to-develop-systems-source-code-developer-programming-concept-model-3d-rendering_537132-680.jpg' alt='greeting image'>
+<img src='https://png.pngtree.com/thumb_back/fh260/background/20220522/pngtree-programming-and-coding-banner-working-image_1375029.jpg' alt='greeting image'>
 
 ### Hi there 👋
 
