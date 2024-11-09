@@ -1,4 +1,4 @@
-<img src='https://kartinki.pics/uploads/posts/2021-07/1625506910_18-kartinkin-com-p-fon-dlya-programmista-krasivie-foni-20.jpg' alt='greeting image'>
+<!-- <img src='https://kartinki.pics/uploads/posts/2021-07/1625506910_18-kartinkin-com-p-fon-dlya-programmista-krasivie-foni-20.jpg' alt='greeting image'> -->
 
 ### Hi there 👋
 
