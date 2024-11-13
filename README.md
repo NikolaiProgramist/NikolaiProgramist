@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-![ViewsStats](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![ViewsStats](https://komarev.com/ghpvc/?username=NikolaiProgramist&style=flat-square)
 
 ### 💻 Development
 
