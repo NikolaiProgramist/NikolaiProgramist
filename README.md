@@ -24,7 +24,21 @@
 
 ### 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikolaiProgramist)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=dark)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NikolaiProgramist&theme=tokyo-night)](https://github.com/NikolaiProgramist/github-readme-activity-graph)
+<table>
+  <tr>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=NikolaiProgramist">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/NikolaiProgramist/github-readme-stats&show_icons=true&theme=dark">
+        <img src="https://github-readme-stats.vercel.app/api?username=NikolaiProgramist">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### 🔎 Languages Stats
 
