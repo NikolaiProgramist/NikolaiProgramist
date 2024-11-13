@@ -12,7 +12,7 @@
 
 <!-- ![HTML5](https://img.shields.io/badge/-HTML5-2C1F2D?style=for-the-badge&logo=HTML5)![CSS3](https://img.shields.io/badge/-CSS3-2C1F2D?style=for-the-badge&logo=CSS3)![SASS](https://img.shields.io/badge/-SASS-2C1F2D?style=for-the-badge&logo=SASS)![JavaScript](https://img.shields.io/badge/-JavaScript-2C1F2D?style=for-the-badge&logo=JavaScript)![PHP](https://img.shields.io/badge/-PHP-2C1F2D?style=for-the-badge&logo=PHP)![Git](https://img.shields.io/badge/-Git-2C1F2D?style=for-the-badge&logo=Git)![MySql](https://img.shields.io/badge/-MySql-2C1F2D?style=for-the-badge&logo=MySql)![SonarQube](https://img.shields.io/badge/Sonarqube-5190cf?style=for-the-badge&logo=sonarqube&logoColor=white) -->
 
-### 🔥 IDE
+### 🛠️ IDE
 
 ![[PhpStorm](http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)](https://img.shields.io/badge/PhpStorm-000000.svg?style=for-the-badge&logo=PhpStorm&logoColor=white)![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)![[Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)](https://img.shields.io/badge/Sublime%20Text-FF9800.svg?style=for-the-badge&logo=Sublime-Text&logoColor=white)![[Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=Notepad++&logoColor=black)
 
