@@ -14,8 +14,8 @@
       </a>
     </td>
     <td>
-      <a href="">
-        <img src="">
+      <a href="https://github.com/NikolaiProgramist/php-project-45">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaiProgramist&repo=php-project-45&theme=tokyonight">
       </a>
     </td>
   </tr>
@@ -42,20 +42,10 @@
 ### 📊 GitHub Stats
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NikolaiProgramist&theme=tokyo-night)](https://github.com/NikolaiProgramist/github-readme-activity-graph)
-<table>
-  <tr>
-    <td>
-      <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikolaiProgramist&theme=tokyonight">
-      </a>
-    </td>
-    <td>
-      <a href="https://github-readme-stats.vercel.app/api?username=NikolaiProgramist&show_icons=true&theme=tokyonight">
-        <img src="https://github-readme-stats.vercel.app/api?username=NikolaiProgramist&show_icons=true&theme=tokyonight">
-      </a>
-    </td>
-  </tr>
-</table>
+
+<a href="https://github-readme-stats.vercel.app/api?username=NikolaiProgramist&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=NikolaiProgramist&show_icons=true&theme=tokyonight">
+</a>
 
 ### 🔎 Languages Stats
 
