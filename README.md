@@ -1,20 +1,8 @@
 <!-- <img src='https://kartinki.pics/uploads/posts/2021-07/1625506910_18-kartinkin-com-p-fon-dlya-programmista-krasivie-foni-20.jpg' alt='greeting image'> -->
 
-## Hi there 👋 I'm backend developer and ethical hacker
+## Hi there 👋 I'm backend developer and ethical hacker <img align="right" src="https://komarev.com/ghpvc/?username=NikolaiProgramist&style=for-the-badge">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://komarev.com/ghpvc/?username=NikolaiProgramist&style=for-the-badge">
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white">
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Mail.Ru-005FF9.svg?style=for-the-badge&logo=maildotru&logoColor=white">
-    </td>
-  </tr>
-</table>
+<a href="https://t.me/Nikolai_PRO_1"><img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white"></a><a href="mailto:nikluk2005@mail.ru"><img src="https://img.shields.io/badge/Mail.Ru-005FF9.svg?style=for-the-badge&logo=maildotru&logoColor=white"></a>
 
 ### 🔥 My best projects
 
