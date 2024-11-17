@@ -2,7 +2,19 @@
 
 ## Hi there 👋 I'm backend developer and ethical hacker
 
-![ViewsStats](https://komarev.com/ghpvc/?username=NikolaiProgramist&style=for-the-badge)
+<table>
+  <tr>
+    <td>
+      <img src="https://komarev.com/ghpvc/?username=NikolaiProgramist&style=for-the-badge">
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white">
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Mail.Ru-005FF9.svg?style=for-the-badge&logo=maildotru&logoColor=white">
+    </td>
+  </tr>
+</table>
 
 ### 🔥 My best projects
 
