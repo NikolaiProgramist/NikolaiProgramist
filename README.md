@@ -9,8 +9,14 @@
 <table>
   <tr>
     <td>
+      <a href="https://github.com/NikolaiProgramist/php-project-48">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaiProgramist&repo=php-project-48&theme=tokyonight">
+      </a>
     </td>
     <td>
+      <a href="https://github.com/NikolaiProgramist/php-project-45">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaiProgramist&repo=php-project-45&theme=tokyonight">
+      </a>
     </td>
   </tr>
 </table>
