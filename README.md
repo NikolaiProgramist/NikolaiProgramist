@@ -6,21 +6,6 @@
 
 ### 🔥 My best projects
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/NikolaiProgramist/php-project-48">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaiProgramist&repo=php-project-48&theme=tokyonight">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/NikolaiProgramist/php-project-45">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaiProgramist&repo=php-project-45&theme=tokyonight">
-      </a>
-    </td>
-  </tr>
-</table>
-
 ### 💻 Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)![SASS](https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white)![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)![Composer](https://img.shields.io/badge/Composer-885630.svg?style=for-the-badge&logo=Composer&logoColor=white)![[MySql](https://img.shields.io/badge/-MySql-2C1F2D?style=for-the-badge&logo=MySql)](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61.svg?style=for-the-badge&logo=VirtualBox&logoColor=white)![GnomeTerminal](https://img.shields.io/badge/GNOME%20Terminal-241F31.svg?style=for-the-badge&logo=GNOME-Terminal&logoColor=white)![ZSH](https://img.shields.io/badge/Zsh-F15A24.svg?style=for-the-badge&logo=Zsh&logoColor=white)![[Git](https://img.shields.io/badge/-Git-2C1F2D?style=for-the-badge&logo=Git)](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)![JSON](https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white)![YAML](https://img.shields.io/badge/YAML-CB171E.svg?style=for-the-badge&logo=YAML&logoColor=white)
