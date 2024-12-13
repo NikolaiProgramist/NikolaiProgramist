@@ -2,7 +2,7 @@
 
 ## Hi there 👋 I'm backend developer and ethical hacker <img align="right" src="https://komarev.com/ghpvc/?username=NikolaiProgramist&style=for-the-badge">
 
-<a href="https://t.me/Nikolai_PRO_1"><img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white"></a><a href="mailto:nikluk2005@mail.ru"><img src="https://img.shields.io/badge/Mail.Ru-005FF9.svg?style=for-the-badge&logo=maildotru&logoColor=white"></a>
+<a href="https://t.me/Nikolai_PRO_1"><img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white"></a><a href="mailto:nikluk2005@mail.ru"><img src="https://img.shields.io/badge/Mail.Ru-005FF9.svg?style=for-the-badge&logo=maildotru&logoColor=white"></a><a href='https://ru.hexlet.io/u/nikolai_pro_1' target="_blank"><img alt='Hexlet' src='https://img.shields.io/badge/Hexlet_profile-100000?style=for-the-badge&logo=Hexlet&logoColor=000000&labelColor=FFFFFF&color=FFFFFF'/></a>
 
 ### 🔥 My best projects
 
