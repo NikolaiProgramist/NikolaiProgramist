@@ -14,8 +14,23 @@
       </a>
     </td>
     <td>
+      <a href="https://github.com/NikolaiProgramist/php-project-9">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaiProgramist&repo=php-project-9&theme=tokyonight">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
       <a href="https://github.com/NikolaiProgramist/php-project-45">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaiProgramist&repo=php-project-45&theme=tokyonight">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/NikolaiProgramist/Codewars-Fundamentals">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaiProgramist&repo=Codewars-Fundamentals&theme=tokyonight">
       </a>
     </td>
   </tr>
