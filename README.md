@@ -9,13 +9,13 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/NikolaiProgramist/php-project-48">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaiProgramist&repo=php-project-48&theme=tokyonight">
+      <a href="https://github.com/NikolaiProgramist/Differ">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaiProgramist&repo=Differ&theme=tokyonight">
       </a>
     </td>
     <td>
-      <a href="https://github.com/NikolaiProgramist/php-project-45">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaiProgramist&repo=php-project-45&theme=tokyonight">
+      <a href="https://github.com/NikolaiProgramist/Page-Analyzer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaiProgramist&repo=Page-Analyzer&theme=tokyonight">
       </a>
     </td>
   </tr>
@@ -24,13 +24,13 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/NikolaiProgramist/php-project-45">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaiProgramist&repo=php-project-45&theme=tokyonight">
+      <a href="https://github.com/NikolaiProgramist/Brain-Games">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaiProgramist&repo=Brain-Games&theme=tokyonight">
       </a>
     </td>
     <td>
-      <a href="https://github.com/NikolaiProgramist/Codewars-Fundamentals">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaiProgramist&repo=Codewars-Fundamentals&theme=tokyonight">
+      <a href="https://github.com/Hexlet/ru-test-assignments">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hexlet&repo=ru-test-assignments&theme=tokyonight">
       </a>
     </td>
   </tr>
