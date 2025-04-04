@@ -48,7 +48,7 @@
 
 ### 🛠️ IDE
 
-![[PhpStorm](http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)](https://img.shields.io/badge/PhpStorm-000000.svg?style=for-the-badge&logo=PhpStorm&logoColor=white)![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)![[Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)](https://img.shields.io/badge/Sublime%20Text-FF9800.svg?style=for-the-badge&logo=Sublime-Text&logoColor=white)![[Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=Notepad++&logoColor=black)
+![[PhpStorm](http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)](https://img.shields.io/badge/PhpStorm-000000.svg?style=for-the-badge&logo=PhpStorm&logoColor=white)![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)![[Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)](https://img.shields.io/badge/Sublime%20Text-FF9800.svg?style=for-the-badge&logo=Sublime-Text&logoColor=white)![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=Notepad++&logoColor=black)
 
 ### ⚡ OS
 
