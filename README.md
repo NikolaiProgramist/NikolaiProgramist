@@ -9,8 +9,8 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/NikolaiProgramist/Differ23">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaiProgramist&repo=Differ23&theme=tokyonight">
+      <a href="https://github.com/NikolaiProgramist/Differ">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaiProgramist&repo=Differ&theme=tokyonight">
       </a>
     </td>
     <td>
@@ -24,8 +24,8 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/NikolaiProgramist/Brain-Games23">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaiProgramist&repo=Brain-Games23&theme=tokyonight">
+      <a href="https://github.com/NikolaiProgramist/Brain-Games">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaiProgramist&repo=Brain-Games&theme=tokyonight">
       </a>
     </td>
     <td>
