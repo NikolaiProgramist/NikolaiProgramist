@@ -42,9 +42,13 @@
 
 ### 🎯 Information security (penetration testing)
 
-![OWASP](https://img.shields.io/badge/OWASP-000000.svg?style=for-the-badge&logo=OWASP&logoColor=white)![ZAP](https://img.shields.io/badge/ZAP-00549E.svg?style=for-the-badge&logo=ZAP&logoColor=white)![Wireshark](https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white)![Snyk](https://img.shields.io/badge/Snyk-4C4A73.svg?style=for-the-badge&logo=Snyk&logoColor=white)![[SonarQube](https://img.shields.io/badge/Sonarqube-5190cf?style=for-the-badge&logo=sonarqube&logoColor=white)](https://img.shields.io/badge/SonarQube-4E9BCD.svg?style=for-the-badge&logo=SonarQube&logoColor=white)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF.svg?style=for-the-badge&logo=VirusTotal&logoColor=white)![OWASP](https://img.shields.io/badge/OWASP-000000.svg?style=for-the-badge&logo=OWASP&logoColor=white)![ZAP](https://img.shields.io/badge/ZAP-00549E.svg?style=for-the-badge&logo=ZAP&logoColor=white)![Wireshark](https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white)![Snyk](https://img.shields.io/badge/Snyk-4C4A73.svg?style=for-the-badge&logo=Snyk&logoColor=white)![[SonarQube](https://img.shields.io/badge/Sonarqube-5190cf?style=for-the-badge&logo=sonarqube&logoColor=white)](https://img.shields.io/badge/SonarQube-4E9BCD.svg?style=for-the-badge&logo=SonarQube&logoColor=white)
 
 <!-- ![HTML5](https://img.shields.io/badge/-HTML5-2C1F2D?style=for-the-badge&logo=HTML5)![CSS3](https://img.shields.io/badge/-CSS3-2C1F2D?style=for-the-badge&logo=CSS3)![SASS](https://img.shields.io/badge/-SASS-2C1F2D?style=for-the-badge&logo=SASS)![JavaScript](https://img.shields.io/badge/-JavaScript-2C1F2D?style=for-the-badge&logo=JavaScript)![PHP](https://img.shields.io/badge/-PHP-2C1F2D?style=for-the-badge&logo=PHP)![Git](https://img.shields.io/badge/-Git-2C1F2D?style=for-the-badge&logo=Git)![MySql](https://img.shields.io/badge/-MySql-2C1F2D?style=for-the-badge&logo=MySql)![SonarQube](https://img.shields.io/badge/Sonarqube-5190cf?style=for-the-badge&logo=sonarqube&logoColor=white) -->
+
+###  TOOLS
+
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED.svg?style=for-the-badge&logo=Obsidian&logoColor=white)![Excalidraw](https://img.shields.io/badge/Excalidraw-6965DB.svg?style=for-the-badge&logo=Excalidraw&logoColor=white)
 
 ### 🛠️ IDE
 
