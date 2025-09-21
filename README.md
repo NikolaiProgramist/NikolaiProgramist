@@ -9,13 +9,13 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/NikolaiProgramist/Differ">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaiProgramist&repo=Differ&theme=tokyonight">
+      <a href="https://github.com/NikolaiProgramist/php-project-57">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaiProgramist&repo=php-project-57&theme=tokyonight">
       </a>
     </td>
     <td>
-      <a href="https://github.com/NikolaiProgramist/Page-Analyzer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaiProgramist&repo=Page-Analyzer&theme=tokyonight">
+      <a href="https://github.com/NikolaiProgramist/Differ">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaiProgramist&repo=Differ&theme=tokyonight">
       </a>
     </td>
   </tr>
@@ -29,8 +29,8 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/Hexlet/ru-test-assignments">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hexlet&repo=ru-test-assignments&theme=tokyonight">
+      <a href="https://github.com/NikolaiProgramist/Page-Analyzer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikolaiProgramist&repo=Page-Analyzer&theme=tokyonight">
       </a>
     </td>
   </tr>
